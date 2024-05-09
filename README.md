@@ -1,18 +1,7 @@
-# Quartz v4
+# LLM Wiki
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+![Obsidian Badge](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=fff&style=flat) ![Static Badge](https://img.shields.io/badge/%F0%9F%AA%B4_Quartz-BF40BF)
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+A wiki about large language models (LLMs). Using Quartz to deploy a static site.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+I grew tired of trying to find a single place that covered all of the metadata regarding large language models (LLMs), so this is my attempt to consolidate that information into one place. It also gives me a chance to try and use some of the newer AI-powered scraping libraries, like [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) and [Firecrawl](https://github.com/mendableai/firecrawl).
