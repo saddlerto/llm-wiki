@@ -1,6 +1,7 @@
 ---
-title: Welcome to the GenAI Wiki
+{"publish":true,"path":"index.md","permalink":"/index/","title":"Welcome to the GenAI Wiki"}
 ---
+
 
 This wiki covers topics related to generative AI (artificial intelligence). The inspiration for this wiki was my desire to find and share information about large language models (LLMs), multi-modal LLMs, and other related projects.
 
